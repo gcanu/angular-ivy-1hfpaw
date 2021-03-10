@@ -5,6 +5,11 @@ import { Component, Directive, VERSION } from "@angular/core";
 })
 export class TlContainer {}
 
+@Directive({
+  selector: "[tl-etiquette]"
+})
+export class TlEtiquette {}
+
 @Component({
   selector: "my-app",
   templateUrl: "./app.component.html",
