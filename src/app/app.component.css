@@ -1,3 +1,7 @@
-p {
-  font-family: Lato;
+.gauche {
+  color: green;
+}
+
+.droite {
+  color: red;
 }
