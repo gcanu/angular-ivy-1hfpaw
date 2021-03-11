@@ -5,3 +5,7 @@
 .droite {
   color: red;
 }
+
+div[tl-etiquette] {
+  width: fit-content;
+}
